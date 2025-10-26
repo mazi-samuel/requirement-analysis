@@ -195,6 +195,41 @@ Below is the use case diagram for the **Booking Management System**, created usi
 
 ### 🖼️ Diagram
 
+✅ Acceptance Criteria
+
+Acceptance Criteria are specific conditions that a software feature must meet to be considered complete and satisfactory by stakeholders or end users.
+They serve as a bridge between requirements and testing, clearly defining what success looks like for each feature.
+
+Importance of Acceptance Criteria
+
+Clarity and Alignment: They ensure that developers, testers, and clients share a common understanding of what needs to be built.
+
+Improved Quality Assurance: They provide measurable and testable conditions that help verify whether a feature works as intended.
+
+Reduced Miscommunication: They minimize assumptions, making it easier to validate user needs and expectations.
+
+Facilitates Agile Development: In Agile environments, acceptance criteria guide user story completion and sprint reviews.
+
+Example: Acceptance Criteria for the Checkout Feature
+
+Feature: Checkout Process for Booking Management System
+
+Acceptance Criteria:
+
+The system must allow users to review their selected booking details (room type, date, price) before proceeding to payment.
+
+Users must be able to select a payment method (e.g., credit card, PayPal, bank transfer).
+
+The system must validate all required payment information before processing.
+
+Upon successful payment, the system must display a confirmation message and send a booking confirmation email to the user.
+
+If payment fails, the system must display an error message and provide an option to retry or change the payment method.
+
+The booking details must be updated in the database only after payment is confirmed.
+
+The system should log all transactions for future reference and auditing.
+
 ![Booking Management System Use Case Diagram](./alx-booking-uc.png)<img width="1536" height="1024" alt="74f79cdf-bf0d-4862-ae98-578ffef9a0fe" src="https://github.com/user-attachments/assets/df739bf6-32a0-4f11-9505-4898bf9fc819" />
 
 > **File name:** `alx-booking-uc.png`
