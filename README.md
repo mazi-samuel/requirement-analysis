@@ -57,3 +57,38 @@ Proper analysis also reduces the need for rework, saving time and resources late
 
 Accurate and detailed requirements form the foundation for design, development, and testing. When the team fully understands user needs and system constraints, the result is a higher-quality product that performs reliably and satisfies user expectations.
 Well-analyzed requirements lead to fewer defects, smoother implementation, and higher customer satisfaction.
+⚙️ Key Activities in Requirement Analysis
+
+The Requirement Analysis phase consists of several structured activities that help ensure the software product meets the needs of its users and stakeholders. Each activity contributes to developing a clear, complete, and validated set of requirements.
+
+Below are the five key activities involved:
+
+📝 Requirement Gathering
+
+This is the initial stage where information about the project is collected from stakeholders such as clients, end-users, and subject matter experts.
+The goal is to understand what the users need and why they need it.
+Common techniques include interviews, questionnaires, brainstorming sessions, and reviewing existing systems or documentation.
+
+🎤 Requirement Elicitation
+
+In this stage, analysts actively engage with stakeholders to uncover their needs, expectations, and constraints.
+It’s not just about asking questions — it’s about drawing out hidden or implicit requirements through workshops, observations, focus groups, or use-case discussions.
+The goal is to ensure that all stakeholder perspectives are captured accurately.
+
+📄 Requirement Documentation
+
+After gathering and eliciting requirements, all information is formally documented to provide a clear and agreed-upon reference.
+The output of this activity is usually a Software Requirements Specification (SRS) document, which describes both functional and non-functional requirements in detail.
+This document serves as a contract between stakeholders and the development team.
+
+🧩 Requirement Analysis and Modeling
+
+This activity focuses on analyzing the gathered requirements for consistency, completeness, and feasibility.
+Analysts may create models, flowcharts, data diagrams, or use-case diagrams to visualize system behavior and interactions.
+The aim is to break down complex requirements into clear, structured components that guide system design and development.
+
+✅ Requirement Validation
+
+Once requirements are analyzed and documented, they must be validated to ensure they correctly reflect stakeholder needs.
+This step often involves reviews, walkthroughs, or prototyping to confirm that the documented requirements are accurate, realistic, and testable.
+Validation helps identify and correct misunderstandings early, reducing costly errors later in the SDLC.
