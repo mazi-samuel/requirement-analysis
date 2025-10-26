@@ -195,7 +195,8 @@ Below is the use case diagram for the **Booking Management System**, created usi
 
 ### 🖼️ Diagram
 
-![Booking Management System Use Case Diagram](./alx-booking-uc.png)
+![Booking Management System Use Case Diagram](./alx-booking-uc.png)<img width="1536" height="1024" alt="74f79cdf-bf0d-4862-ae98-578ffef9a0fe" src="https://github.com/user-attachments/assets/df739bf6-32a0-4f11-9505-4898bf9fc819" />
+
 > **File name:** `alx-booking-uc.png`
 > *(Ensure this image file is in the same directory as your README.md)*
 
