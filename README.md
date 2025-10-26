@@ -140,3 +140,62 @@ The user interface should be intuitive and accessible, meeting WCAG accessibilit
 Backups of all booking data should occur automatically every 24 hours.
 
 These requirements ensure that the system is not only functional but also efficient, secure, and reliable in real-world use.
+Here’s a clean, professional Markdown section you can copy directly into your `README.md` file 👇
+
+---
+
+## 🎨 Use Case Diagrams
+
+### 🧩 What Are Use Case Diagrams?
+
+**Use Case Diagrams** are visual representations that describe how users (known as *actors*) interact with a system to achieve specific goals. They form part of the **Unified Modeling Language (UML)** and are widely used during the **Requirement Analysis** phase of software development.
+
+A use case diagram helps to identify:
+
+* **Actors** (people, systems, or external entities) interacting with the system.
+* **Use cases** (functions or services) the system provides.
+* **Relationships** between actors and use cases.
+
+In essence, it shows **who does what** in the system — providing a clear overview of the system’s functionality from a user’s perspective.
+
+---
+
+### 💡 Benefits of Use Case Diagrams
+
+* **Improves Understanding:** Offers a simple, visual way to understand how the system should behave.
+* **Clarifies Requirements:** Helps stakeholders and developers communicate system functionalities clearly.
+* **Identifies System Boundaries:** Defines what is inside or outside the scope of the system.
+* **Supports Design and Testing:** Provides a foundation for designing user interactions and writing test cases.
+
+---
+
+### 🧑‍💻 Use Case Diagram for the Booking Management System
+
+Below is the use case diagram for the **Booking Management System**, created using [Draw.io](https://app.diagrams.net/) (or any similar UML tool).
+
+#### **Actors**
+
+* **User/Customer** – Makes and manages bookings.
+* **Admin** – Oversees system operations and manages resources.
+* **Payment Gateway** – Handles online payments securely.
+
+#### **Use Cases**
+
+* Register / Login
+* Search for available rooms
+* Make a booking
+* Cancel booking
+* View booking details
+* Process payment
+* Generate invoice
+* Manage users and bookings (Admin)
+* Update room availability (Admin)
+
+---
+
+### 🖼️ Diagram
+
+![Booking Management System Use Case Diagram](./alx-booking-uc.png)
+> **File name:** `alx-booking-uc.png`
+> *(Ensure this image file is in the same directory as your README.md)*
+
