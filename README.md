@@ -92,3 +92,51 @@ The aim is to break down complex requirements into clear, structured components 
 Once requirements are analyzed and documented, they must be validated to ensure they correctly reflect stakeholder needs.
 This step often involves reviews, walkthroughs, or prototyping to confirm that the documented requirements are accurate, realistic, and testable.
 Validation helps identify and correct misunderstandings early, reducing costly errors later in the SDLC.
+🧱 Types of Requirements
+
+In software engineering, requirements are generally classified into two main categories: Functional Requirements and Non-functional Requirements. Both are essential in defining what a system should do and how it should perform.
+Below are detailed explanations and examples for each — using a Booking Management System as a case study.
+
+⚙️ Functional Requirements
+
+Definition:
+Functional requirements describe the specific features, behaviors, and functions the system must perform. They define what the software should do — the operations, inputs, outputs, and interactions that fulfill user needs.
+
+Examples for a Booking Management Project:
+
+The system should allow users to create, modify, and cancel bookings.
+
+Users must be able to view available rooms, dates, and prices before confirming a booking.
+
+The system should send email or SMS confirmations after successful reservations.
+
+Admins can manage user accounts, update room availability, and track booking histories.
+
+The system should generate invoices and payment receipts automatically after a booking is confirmed.
+
+Users can filter bookings by date, status (confirmed, pending, cancelled), or customer name.
+
+These requirements describe what actions the system must perform to meet its intended purpose.
+
+🔒 Non-functional Requirements
+
+Definition:
+Non-functional requirements (NFRs) describe how the system performs its functions rather than what it does. They define the quality attributes — such as performance, usability, reliability, and security — that make the system effective and user-friendly.
+
+Examples for a Booking Management Project:
+
+The system should handle up to 10,000 concurrent booking requests without crashing.
+
+The website must load within 3 seconds on a standard internet connection.
+
+The system should maintain 99.9% uptime throughout the year.
+
+All user data must be encrypted to ensure privacy and security.
+
+The system should be compatible with mobile, tablet, and desktop browsers.
+
+The user interface should be intuitive and accessible, meeting WCAG accessibility standards.
+
+Backups of all booking data should occur automatically every 24 hours.
+
+These requirements ensure that the system is not only functional but also efficient, secure, and reliable in real-world use.
